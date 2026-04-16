@@ -2,7 +2,7 @@
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-Proprietary-red)
 
 > **說明**：本儲存庫為**作品集展示 (Portfolio Showcase)**。原始程式碼屬於專有財產。本儲存庫旨在展示本工具的架構設計、設計模式以及技術能力。
 
